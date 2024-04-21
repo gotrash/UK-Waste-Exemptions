@@ -3,7 +3,7 @@
     {
       "ref": "u1",
       "description": "Use of waste for construction",
-      "oldExemptions": "9:10",
+      "oldExemptions": [9, 10],
       "oldDescriptions": "Land reclamation or improvement:Waste for construction"
     },
     {
@@ -13,13 +13,13 @@
     {
       "ref": "u3",
       "description": "Use of construction waste for exhibits etc",
-      "oldExemptions": "19",
+      "oldExemptions": [19],
       "oldDescriptions": "Waste for construction"
     },
     {
       "ref": "u4",
       "description": "Burning of waste as a fuel in a small plant",
-      "oldExemptions": "5",
+      "oldExemptions": [5],
       "oldDescriptions": "Burning waste as a fuel in an exempt appliance"
     },
     {
@@ -37,7 +37,7 @@
     {
       "ref": "u8",
       "description": "Use of waste for a specified purpose",
-      "oldExemptions": "15",
+      "oldExemptions": [15],
       "oldDescriptions": "Beneficial use of waste"
     },
     {
@@ -49,13 +49,13 @@
     {
       "ref": "u10",
       "description": "Spreading waste on agricultural land to confer benefit",
-      "oldExemptions": "7:36:47",
+      "oldExemptions": [7, 36, 47],
       "oldDescriptions": "Waste fore the benefit of land:Spreading of dredgings:Treating land by the spreading of agricultural waste (milk)"
     },
     {
       "ref": "u11",
       "description": "Spreading waste on non-agricultural land to confer benefit",
-      "oldExemptions": "7:9",
+      "oldExemptions": [7, 9],
       "oldDescriptions": "Waste for the benefit of land:Land reclamation or improvement"
     },
     {
@@ -83,43 +83,43 @@
     {
       "ref": "t1",
       "description": "Cleaning, washing, spraying or coating relevant waste",
-      "oldExemptions": "4",
+      "oldExemptions": [4],
       "oldDescriptions": "Cleaning, washing, spraying or coating of waste packaging and containers"
     },
     {
       "ref": "t2",
       "description": "Recovery of textiles",
-      "oldExemptions": "20",
+      "oldExemptions": [20],
       "oldDescriptions": "Laundering or cleaning waste textiles"
     },
     {
       "ref": "t3",
       "description": "Treatment of waste metals and metal alloys by heating for the purposes of removing grease etc",
-      "oldExemptions": "44",
+      "oldExemptions": [44],
       "oldDescriptions": "Apply to your local authority"
     },
     {
       "ref": "t4",
       "description": "Preparatory treatments (baling, sorting, shredding etc)",
-      "oldExemptions": "11",
+      "oldExemptions": [11],
       "oldDescriptions": "Treatment of waste for the purpose of recovery"
     },
     {
       "ref": "t5",
       "description": "Screening and blending of waste",
-      "oldExemptions": "13:21",
+      "oldExemptions": [13, 21],
       "oldDescriptions": "Manufacture and treatment of construction materials and timber products:Chipping, shredding, cutting or pulverising of waste plant matter."
     },
     {
       "ref": "t6",
       "description": "Treatment of waste wood and waste plant matter by chipping, shredding, cutting or pulverising",
-      "oldExemptions": "21",
+      "oldExemptions": [21],
       "oldDescriptions": "Chipping, shredding, cutting or pulverising of waste plant matter"
     },
     {
       "ref": "t7",
       "description": "Treatment of waste bricks, tiles and concrete by crushing, grinding or reducing in size",
-      "oldExemptions": "24",
+      "oldExemptions": [24],
       "oldDescriptions": "Apply to your local authority"
     },
     {
@@ -129,7 +129,7 @@
     {
       "ref": "t9",
       "description": "Recovery of scrap metal",
-      "oldExemptions": "45",
+      "oldExemptions": [45],
       "oldDescriptions": "Recovery of scrap metal or the dismantling of waste motor vehicles"
     },
     {
@@ -139,7 +139,7 @@
     {
       "ref": "t11",
       "description": "Repair or refurbishment of WEEE",
-      "oldExemptions": "40",
+      "oldExemptions": [40],
       "oldDescriptions": "Repair or refurbishment of WEEE"
     },
     {
@@ -165,7 +165,7 @@
     {
       "ref": "t17",
       "description": "Crushing waste fluorescent tubes",
-      "oldExemptions": "40",
+      "oldExemptions": [40],
       "oldDescriptions": "Crushing of waste gas discharge lamps"
     },
     {
@@ -179,37 +179,37 @@
     {
       "ref": "t20",
       "description": "Treatment of waste at a water treatment works",
-      "oldExemptions": "10",
+      "oldExemptions": [10],
       "oldDescriptions": "Sewage and water treatment works"
     },
     {
       "ref": "t21",
       "description": "Recovery of waste at a waste water treatment works",
-      "oldExemptions": "10",
+      "oldExemptions": [10],
       "oldDescriptions": "Sewage and water treatment works"
     },
     {
       "ref": "t22",
       "description": "Treatment of animal by-product waste at a collection centre",
-      "oldExemptions": "23",
+      "oldExemptions": [23],
       "oldDescriptions": "Recovery of waste consisting of animal by-products at a collection centre"
     },
     {
       "ref": "t23",
       "description": "Aerobic composting and associated prior treatment",
-      "oldExemptions": "12",
+      "oldExemptions": [12],
       "oldDescriptions": "Composting waste"
     },
     {
       "ref": "t24",
       "description": "Anaerobic digestion at premises used for agriculture and burning of resultant biogas",
-      "oldExemptions": "12",
+      "oldExemptions": [12],
       "oldDescriptions": "Composting waste"
     },
     {
       "ref": "t25",
       "description": "Anaerobic digestion at premises not used for agriculture and burning of resultant biogas",
-      "oldExemptions": "12",
+      "oldExemptions": [12],
       "oldDescriptions": "Composting waste"
     },
     {
@@ -231,7 +231,7 @@
     {
       "ref": "t30",
       "description": "Recovery of silver",
-      "oldExemptions": "22",
+      "oldExemptions": [22],
       "oldDescriptions": "Recovery of silver from waste printing and photographic wastes"
     },
     {
@@ -241,7 +241,7 @@
     {
       "ref": "t32",
       "description": "Treatment of waste in a biobed or biofilter",
-      "oldExemptions": "16",
+      "oldExemptions": [16],
       "oldDescriptions": "Biobeds"
     },
     {
@@ -253,49 +253,49 @@
     {
       "ref": "d1",
       "description": "Deposit of waste from dredging of inland waters",
-      "oldExemptions": "25",
+      "oldExemptions": [25],
       "oldDescriptions": "Deposit of dredgings from inland waterways"
     },
     {
       "ref": "d2",
       "description": "Deposit of waste from a railway sanitary convenience",
-      "oldExemptions": "31",
+      "oldExemptions": [31],
       "oldDescriptions": "Discharge of sanitary waste from passenger train"
     },
     {
       "ref": "d3",
       "description": "Deposit of waste from a portable sanitary convenience",
-      "oldExemptions": "32",
+      "oldExemptions": [32],
       "oldDescriptions": "Burial of sanitary waste from removable receptacle"
     },
     {
       "ref": "d4",
       "description": "Deposit of agricultural waste consisting of plant tissue under a Plant Health notice",
-      "oldExemptions": "37",
+      "oldExemptions": [37],
       "oldDescriptions": "Deposit of agricultural waste consisting of plant tissue at the place of production"
     },
     {
       "ref": "d5",
       "description": "Depositing samples of waste for the purposes of testing or analysing them",
-      "oldExemptions": "38",
+      "oldExemptions": [38],
       "oldDescriptions": "Deposit or storage of waste samples"
     },
     {
       "ref": "d6",
       "description": "Disposal by incineration",
-      "oldExemptions": "29",
+      "oldExemptions": [29],
       "oldDescriptions": "Burning of waste in exempt incinerator at place of production"
     },
     {
       "ref": "d7",
       "description": "Burning waste in the open",
-      "oldExemptions": "30",
+      "oldExemptions": [30],
       "oldDescriptions": "Burning of waste on open land at place of production"
     },
     {
       "ref": "d8",
       "description": "Burning waste at a port under a Plant Health notice",
-      "oldExemptions": "46",
+      "oldExemptions": [46],
       "oldDescriptions": "Burning plant tissue waste and wood at a dock"
     }
   ],
@@ -303,19 +303,19 @@
     {
       "ref": "s1",
       "description": "Storage of waste in secure containers",
-      "oldExemptions": "18",
+      "oldExemptions": [18],
       "oldDescriptions": "Storage of waste in a secure container"
     },
     {
       "ref": "s2",
       "description": "Storage of waste in a secure place",
-      "oldExemptions": "17:41",
+      "oldExemptions": [17, 41],
       "oldDescriptions": "Storage of waste in a secure place:Storage of WEEE pending recovery elsewhere"
     },
     {
       "ref": "s3",
       "description": "Storage of sludge",
-      "oldExemptions": "8",
+      "oldExemptions": [8],
       "oldDescriptions": "Secure storage of sludge"
     }
   ]

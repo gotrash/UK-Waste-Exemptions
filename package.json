@@ -1,0 +1,28 @@
+{
+  "name": "@gotrash/uk-waste-exemptions",
+  "version": "1.0.0",
+  "description": "UK Waste Exemptions in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gotrash/UK-Waste-Exemptions.git"
+  },
+  "keywords": [
+    "waste",
+    "exemptions",
+    "gotrash",
+    "trash",
+    "disposal",
+    "data",
+    "json"
+  ],
+  "author": "Alex Scott <codetheorist@outlook.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gotrash/UK-Waste-Exemptions/issues"
+  },
+  "homepage": "https://github.com/gotrash/UK-Waste-Exemptions#readme"
+}

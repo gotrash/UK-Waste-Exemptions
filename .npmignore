@@ -3,3 +3,4 @@
 .gitignore
 package-lock.json
 waste-exemptions.code-workspace
+.github/*

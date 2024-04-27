@@ -13,11 +13,15 @@
   "keywords": [
     "waste",
     "exemptions",
-    "gotrash",
     "trash",
-    "disposal",
     "data",
-    "json"
+    "json",
+    "GoTrash",
+    "UK",
+    "United Kingdom",
+    "UK Waste Exemptions",
+    "UK Waste Exemption Types",
+    "Waste Exemptions"
   ],
   "author": "Alex Scott <codetheorist@outlook.com>",
   "license": "GPL-3.0",

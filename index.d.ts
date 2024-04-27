@@ -4,8 +4,6 @@ export interface WasteExemption {
   previousExemptions?: WasteExemption[];
 }
 
-
-
 declare const wasteExemptions: WasteExemption[];
 
 export default wasteExemptions;

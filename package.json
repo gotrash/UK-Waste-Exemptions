@@ -1,6 +1,6 @@
 {
   "name": "@gotrash/uk-waste-exemptions",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "UK Waste Exemptions in JSON format.",
   "main": "index.js",
   "scripts": {
